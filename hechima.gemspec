@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Hechima::VERSION
   s.authors     = ["Yuto Ogi"]
   s.email       = ["jacoyutorius@gmail.com"]
-  s.homepage    = "http://jacoyutorius.com"
+  s.homepage    = "https://github.com/jacoyutorius/hechima"
   s.summary     = "Hechima enables your application to show View without Controller."
   s.description = "Hechima enables your application to show View without Controller."
   s.license     = "MIT"
