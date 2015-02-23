@@ -3,6 +3,9 @@
 Enables to show View without Controller.
 
 
+[![Gem Version](https://badge.fury.io/rb/hechima.svg)](http://badge.fury.io/rb/hechima)
+
+
 ## What is this?
 
 Hechima can show View without Controller in Rails.
